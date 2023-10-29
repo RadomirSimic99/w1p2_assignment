@@ -1,0 +1,144 @@
+body{
+    background-color: #e9edf0;
+    margin: 0%;
+}
+main{
+    text-align: center;
+}
+.sfondologo {
+    background-color: #233040;
+}
+.amazonlogo {
+    height: 60px;
+    margin-left: 35px;
+}
+.topbar {
+    background-color: #364757;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-family: Arial;
+}
+.topspa {
+    padding-left: 40px;
+}
+.topspan {
+    padding-left: 20px;
+}
+.gifcard {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.shopal {
+    background-color: #F56600;
+    color: white;
+    margin: 30px 30px 30px 30px;
+    text-align: center;
+    font-family: Arial;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.img-container {
+    position: relative;
+    display: inline-block;
+    width: 3310px;
+   }
+   
+   .img-container img {
+    width: 3310px;
+    height: 200px;
+   }
+   
+   .text-inside-img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 24px;  
+    padding-top:30px;  
+}
+.ricerca {
+    font-size: 20px;
+    font-family: Arial;
+    background-color: white;
+    margin: 30px 30px;
+    margin-right: 30px;
+    padding: 20px 20px;
+    text-align: left;
+    height: 700px;
+}
+.shopnow {
+    font-size: 15px;
+    padding-left: 20px;
+    color: #006373;
+}
+.divperquattro{
+    display: flex;
+    align-items: center;
+    justify-content:baseline;
+}
+.perquattro {
+    margin-top: 10px;
+    height: 650px;
+    width: 1200px;
+    margin: 20px;
+    box-shadow: 4px 7px 7px 0px #00000042;
+    border-radius: 20px;
+    display: inline-flex;
+}
+.oculusvr {
+    margin: 30px 30px;
+}
+.oculus {
+    width: 3310px;
+    height: 500px;
+}
+.thegift {
+    font-family: Arial;
+}
+.shopgaming {
+    color: blue;
+    font-family: Arial;
+}
+.marshall{
+    margin: 30px 30px;
+}
+.marshallimg {
+    width: 3310px;
+    height: 500px;
+}
+.shopaudio {
+    font-family: Arial;
+    padding-bottom: 30px;
+    margin-top: 10px;
+}
+.shopaudiouno {
+    color: blue;
+    font-family: Arial;
+}
+footer {
+    text-align: center;
+}
+.backtop{
+    background-color: #364757;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    text-decoration: underline white;
+}
+.top{
+    color: white;
+    font-family: Arial;
+}
+.logoamazo {
+    background-color: #233040;
+    padding-top: 60px;
+    padding-bottom: 60px;
+
+}
+.logoo {
+    height: 60px;
+}
